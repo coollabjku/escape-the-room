@@ -48,10 +48,10 @@ In dem Setup Men ̈u kann jederzeit die Zeit eingestellt werden.
 Dazu muss w ̈ahrend des Einschaltens die 5 auf dem Keypad gedr ̈uckt und gehalten
 werden bis das Setup Men ̈u erscheint.
 Nun kann mit dem Keypad die Zeit eingestellt werden. # dient dabei als Backspace und
-* als Enter. Nach einem Druck auf * wird die eingestellte Zeit nochmals angezeigt. Um
+\* als Enter. Nach einem Druck auf \* wird die eingestellte Zeit nochmals angezeigt. Um
 die CSV Datei einzustellen muss nochmals auf * gedr ̈uckt werden. nun kann die CSV
 Datei eingestellt werden:
 Dzu mit dem Keypad die entsprechende Zahl der Datei eingeben. F ̈ur ”2.csv” w ̈are das
-”2”. Nach einem weiteren Druck auf die * Taste wird die Eingabe best ̈atigt.
+”2”. Nach einem weiteren Druck auf die \* Taste wird die Eingabe best ̈atigt.
 Die Einstellungen sind auf dem EEPROM gespeichert. Nach einem erneuerten Starten
 Mikrocontrollers, sind die neuen Einstellungen bereits geladen.
